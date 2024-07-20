@@ -112,7 +112,7 @@ const Canvas = () => {
         <canvas
           ref={canvasRef}
           width="1080vw"
-          height="720vh"
+          height="640vh"
           className="border-gray-900 rounded-lg border-2 mb-4 bg-gray-100"
           onClick={handleCanvasClick}
         />
@@ -124,7 +124,7 @@ const Canvas = () => {
             Generate Convex Hull
           </button>
           <button
-            className="bg-red-500 text-white px-4 py-2 rounded mb-4"
+            className="bg-red-500 text-white px-4 py-2 rounded-full mb-4"
             onClick={clearCanvas}
           >
             Clear Canvas
