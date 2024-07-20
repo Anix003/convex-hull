@@ -111,8 +111,8 @@ const Canvas = () => {
       <div className="flex flex-col">
         <canvas
           ref={canvasRef}
-          width="1000vw"
-          height="600vh"
+          width="1080vw"
+          height="720vh"
           className="border-gray-900 rounded-lg border-2 mb-4 bg-gray-100"
           onClick={handleCanvasClick}
         />
