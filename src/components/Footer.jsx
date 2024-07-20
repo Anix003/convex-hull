@@ -8,7 +8,7 @@ const Footer = () => {
             <div className="text-center items-center text-gray-400 mt-1">
                 <p>Anish Bar, CSE, GCETTS</p>
             </div>
-            <div className="flex ml-16 items-center justify-center space-x-6">
+            <div className="flex items-center justify-center space-x-6">
                 <a
                     href="https://www.facebook.com/anish.bar.9/"
                     target="_blank"
