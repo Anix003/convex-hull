@@ -6,7 +6,7 @@ const Footer = () => {
     return (
         <footer className="flex flex-wrap justify-around bg-gray-800 text-white py-3">
             <div className="text-center items-center text-gray-400 mt-1">
-                <p>Anish Bar, CSE, GCETTS</p>
+                <p>Anish Bar, CSE, GCETTS, 2022-26</p>
             </div>
             <div className="flex items-center justify-center space-x-6">
                 <a
